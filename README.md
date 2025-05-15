@@ -2,3 +2,9 @@
 修改了页面，适应手机打开页面
 增加了分类：名称编辑、排序功能
 书签编辑功能
+没有登录的页面
+![PixPin_2025-05-15_15-39-23](https://github.com/user-attachments/assets/ddf6a322-52e4-4a13-bc09-830f66ffdc3b)
+登录后的页面
+![PixPin_2025-05-15_15-40-08](https://github.com/user-attachments/assets/1a5441d0-43d7-41c7-b68e-0a08d370e93a)
+编辑页面
+![PixPin_2025-05-15_15-40-49](https://github.com/user-attachments/assets/3899cb8d-9ce1-4b4c-acdd-f61e30e95e2d)
